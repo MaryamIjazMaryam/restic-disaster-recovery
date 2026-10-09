@@ -1,0 +1,3 @@
+Linux Backup and Disaster Recovery Project
+Purpose: Test encrypted backups and file recovery.
+Technology: Ubuntu WSL, Bash, Restic.

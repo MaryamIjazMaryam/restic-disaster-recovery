@@ -1,0 +1,4 @@
+Project Name: Restic Disaster Recovery
+Environment: Ubuntu Linux on Windows WSL
+Backup Type: Encrypted snapshots
+Recovery Goal: Restore deleted files successfully

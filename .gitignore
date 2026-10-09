@@ -1,0 +1,5 @@
+repository/
+config/restic-password
+logs/
+restore-tests/
+*.log
